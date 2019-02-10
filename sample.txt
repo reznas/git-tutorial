@@ -1,8 +1,2 @@
-<<<<<<< HEAD
 develop-1
 develop-2
-=======
-develop
-feature-1
-feature-2 update 2
->>>>>>> feature-1
